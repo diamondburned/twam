@@ -36,3 +36,23 @@ This is just written for the PT of my AP CSP class of 2020.
 
 No. It's bad, and my license says no, so you can't use it. Period.
 
+## Playing
+
+### Dependencies
+
+`go` version 1.14 or newer and `gtk` version 3. Nix users can do `nix-shell`.
+
+### Running
+
+```sh
+git clone https://github.com/diamondburned/twam && cd twam
+go run .
+```
+
+## Credits
+
+This project uses 3 GIFs borrowed from other people, which are stored in `gifs/`.
+
+**won.gif**: https://en.wikipedia.org/wiki/File:Default_Dancing_Stick_Figure.gif
+**lost.gif**: https://tenor.com/view/stick-figure-blue-mad-gif-10086091
+**start.gif**: https://tenor.com/view/whack-amole-gif-8064490
