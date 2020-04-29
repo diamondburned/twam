@@ -1,0 +1,17 @@
+can you see? 
+1 minute long
+30 mega bytes
+
+1. 2a: Written response or narration, but it’s best that you do both.  Please do Both
+·  Language
+·  Purpose
+·  What is the video showing? (What are you trying to “promote”.
+·  <150 words!
+
+1. 2b: Incremental and iterative development (It’s the programming process rather than planning)
+a. Incremental:  step by step description. 
+b. Iterative: what didn’t work?  What improvement/changes after implementation did you make?  
+c. Cite 2 difficulties that you encountered:  something did not work, what did you do?  Did you update the code? Did you just get rid of the feature?
+d. Indicate which part is collaborative and which is independent.  Make sure you have at least one that is completely independent.
+e. <200 words!
+
