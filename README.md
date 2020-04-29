@@ -2,6 +2,8 @@
 
 A troll wack-a-mole game made for AP CSP in Golang.
 
+![video](https://imgur.com/a/uOVnBqK)
+
 ## Disclaimer
 
 **DO NOT USE THIS CODE AS REFERENCE. I REPEAT: DO NOT.**
@@ -53,6 +55,6 @@ go run .
 
 This project uses 3 GIFs borrowed from other people, which are stored in `gifs/`.
 
-**won.gif**: https://en.wikipedia.org/wiki/File:Default_Dancing_Stick_Figure.gif
-**lost.gif**: https://tenor.com/view/stick-figure-blue-mad-gif-10086091
-**start.gif**: https://tenor.com/view/whack-amole-gif-8064490
+- **won.gif**: https://en.wikipedia.org/wiki/File:Default_Dancing_Stick_Figure.gif
+- **lost.gif**: https://tenor.com/view/stick-figure-blue-mad-gif-10086091
+- **start.gif**: https://tenor.com/view/whack-amole-gif-8064490
