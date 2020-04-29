@@ -1,8 +1,6 @@
-# twam
+# [twam](https://i.imgur.com/PBVJW08.mp4)
 
 A troll wack-a-mole game made for AP CSP in Golang.
-
-<img src="https://i.imgur.com/PBVJW08.mp4" alt="video" />
 
 ## Disclaimer
 
