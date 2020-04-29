@@ -2,7 +2,7 @@
 
 A troll wack-a-mole game made for AP CSP in Golang.
 
-![video](https://i.imgur.com/PBVJW08.mp4)
+<img src="https://i.imgur.com/PBVJW08.mp4" alt="video" />
 
 ## Disclaimer
 
